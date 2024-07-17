@@ -1,0 +1,10 @@
+module ExampleModule {
+
+    struct ExampleStruct {
+        long id;
+        string name;
+        double value;
+    };
+    
+    // Add more IDL definitions as needed
+};
