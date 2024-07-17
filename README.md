@@ -1,4 +1,6 @@
 # How to build
 
-gradle build
-gradle run
+```shell
+  gradle build
+  gradle run
+```
